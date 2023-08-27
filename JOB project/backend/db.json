@@ -1,0 +1,34 @@
+{
+  "Registration": [
+    {
+      "id": "1",
+      "Username": "desmond",
+      "Emailid": "desmondsamuel002@gmail.com",
+      "Password": "12345"
+    },
+    {
+      "Username": "desmon",
+      "Emailid": "desmond002@gmail.com",
+      "Password": "12345",
+      "id": "c0Fdn8a"
+    },
+    {
+      "Username": "ne",
+      "Emailid": "nesama002@gmail.com",
+      "Password": "12345",
+      "id": "HjqVY3H"
+    },
+    {
+      "Username": "layla",
+      "Emailid": "layla@gmail.com",
+      "Password": "12345",
+      "id": "UBaD0BL"
+    },
+    {
+      "Username": "des",
+      "Emailid": "des@gmail.com",
+      "Password": "12345",
+      "id": "ZZtBLwI"
+    }
+  ]
+}
